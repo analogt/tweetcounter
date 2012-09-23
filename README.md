@@ -6,11 +6,11 @@ word count statistics.
 
 Installation
 ============
-    `make install
+    make install
 
 Usage
 =====
-    `make run
+    make run
 
 Dependencies
 ============
@@ -18,6 +18,7 @@ Dependencies
 * Ntwitter >= 0.4.1
 * Mocha.js >= 1.4.0
 * Should.js >= 1.0.0
+* Socket.io >= 0.9.10
 
 twitter API credentials should reside in credentials.js in /lib directory.
 

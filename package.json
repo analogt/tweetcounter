@@ -10,6 +10,7 @@
     "dependencies": {
         "ntwitter" : "0.4.1",
         "mocha":"1.4.0",
-        "should":"1.0.0"
+        "should":"1.0.0",
+        "sockiet.io":"0.9.10"
     }
 }
