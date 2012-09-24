@@ -4,7 +4,6 @@
 .word {
 	float:right;
 	padding:10px;
-	color:green;
 }
 .word:hover{
 	color:gray;
