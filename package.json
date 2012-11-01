@@ -5,7 +5,7 @@
     "author" : "Tyler Rivera",
     "repository" : {
         "type" : "git",
-        "url" : "https://github.com/collectivemedia/interview-tweetcounter.git"
+        "url" : "https://github.com/analogt/tweetcounter.git"
     },
     "dependencies": {
         "ntwitter" : "0.4.1",
